@@ -7,8 +7,8 @@ Web Developer
 I am a web developer who loves react!
 
 * 🌍  I'm based in Hong Kong
-* ✉️  You can contact me at 
-[jasonyst93@gmail.com](mailto:jasonyst93@gmail.com) and [www.linkedin.com/in/jasonyst93]
+* ✉️  You can contact me at [jasonyst93@gmail.com](mailto:jasonyst93@gmail.com) 
+* Linkedin [www.linkedin.com/in/jasonyst93]
 * 🧠  I'm learning Data Structures + Algorithms
 * ⚡  super saiyan
 
